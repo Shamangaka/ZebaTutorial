@@ -195,6 +195,6 @@ int main()
     //seven_twenty();
     //seven_twentyone();
     seven_twentytwo();
-    system("pause"); // Только для тех, у кого MS Visual Studio
+    system("pause"); 
     return 0; 
 }

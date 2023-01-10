@@ -1,6 +1,6 @@
 #include <iostream>
-//#include <cstdlib>
-//#include <ctime>
+#include <cstdlib>
+#include <ctime>
 #include <cmath>
 using namespace std;
 
@@ -111,7 +111,7 @@ int main(){
 //	third();
 //	third_alt();
 //	fourth();
-
+	
 	return 0;
 
 
